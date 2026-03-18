@@ -1,0 +1,3 @@
+firm_id,firm_name,year,revenue,net_profit,ocf,cash,rd_expense,total_assets,total_liabilities,overseas_revenue,capacity_ton,utilization,revenue_growth,net_profit_growth,event_count,commercial_event_count,label_nqp,label_fin
+F001,凯赛生物,2024,2957911554.76,488960000.00,820929332.42,5346793890.23,233339322.82,19021477349.64,7514471854.39,955080302.91,265000,42.87,0.3991,0.3341,4,2,1,1
+F002,样例公司A,2024,800000000.00,50000000.00,30000000.00,200000000.00,90000000.00,2500000000.00,1100000000.00,100000000.00,20000,35.0,0.1200,0.0800,1,0,0,0

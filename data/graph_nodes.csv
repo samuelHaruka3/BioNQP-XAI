@@ -1,0 +1,8 @@
+node_id,node_type,node_name
+F001,firm,凯赛生物
+F002,firm,样例公司A
+G001,government,合肥市政府
+G002,government,某地园区
+C001,capital,招商局创科集团
+P001,project,合肥项目
+S001,scenario,复材场景落地
